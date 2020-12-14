@@ -1,0 +1,19 @@
+{
+  "name": "bell-bluetooth",
+  "version": "1.0.0",
+  "description": "移动端设备连接 Mabot 机器人蓝牙公共类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xumei1016/bell-bluetooth.git"
+  },
+  "author": "xumei1016",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xumei1016/bell-bluetooth/issues"
+  },
+  "homepage": "https://github.com/xumei1016/bell-bluetooth#readme"
+}
